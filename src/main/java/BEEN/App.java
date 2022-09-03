@@ -39,6 +39,7 @@ public class App {
                 System.out.println("Cor : " + cor);
                 System.out.println("Categoria : " + categoria);
                 System.out.println("---------------\n\n");
+                System.out.println("Print Bernardo Fiorini");
                 System.out.println("Print Eduardo Eichner");
                 System.out.println("Print Eduardo Martins");
                 System.out.println("Print Nathan Mello");
